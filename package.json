@@ -18,7 +18,7 @@
   "author": "Ganna Fedosova <a.k.fedosova@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
